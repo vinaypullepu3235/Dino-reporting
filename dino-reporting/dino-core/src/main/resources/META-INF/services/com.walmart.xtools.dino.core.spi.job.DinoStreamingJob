@@ -1,0 +1,3 @@
+com.walmart.xtools.dino.core.performance.InternalMetrics
+com.walmart.xtools.dino.core.performance.FEPerformance
+com.walmart.xtools.dino.core.performance.BEPerformance

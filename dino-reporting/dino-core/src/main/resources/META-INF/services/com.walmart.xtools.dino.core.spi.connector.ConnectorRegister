@@ -1,0 +1,2 @@
+com.walmart.xtools.dino.core.connector.KafkaDStreamConnector
+com.walmart.xtools.dino.core.connector.KairosDStreamConnector
